@@ -1,5 +1,6 @@
 pragma solidity ^0.4.0;
 //our contract
+
 contract splitit{
 address[] employees=[xxx,xx,yy,zz,kk];
 mapping(address->unit) withdrawnAmounts;
